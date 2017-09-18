@@ -1,4 +1,4 @@
 # ML-Projects
 Machine Learning 
 
-Learning about Githhib to get into ML by downloading extracts from here
+Learning about Githhib to extract csv files for machine learning
